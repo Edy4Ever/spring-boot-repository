@@ -1,0 +1,3 @@
+spring.datasource.url=jdbc:h2:dev
+spring.datasource.username=SA
+spring.datasource.password=password
